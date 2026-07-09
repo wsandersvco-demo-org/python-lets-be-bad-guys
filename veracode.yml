@@ -1,4 +1,5 @@
 default:
   runs_on: windows-latest
 
-profile: python-project-1
+veracode_static_scan:
+  profile: python-project-1
