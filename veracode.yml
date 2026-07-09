@@ -1,2 +1,4 @@
 default:
   runs_on: windows-latest
+
+profile: python-project-1
